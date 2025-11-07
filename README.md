@@ -1,53 +1,13 @@
 # Ada Check Events
 ## 🧠 Objectif général
 Créer une application React permettant d’afficher les événements publics de Paris
-grâce à l’API officielle
+grâce à l’API externe de la mairie de Paris
 
 ## L’application permet :
 - d’afficher les événements sur une page d’accueil,
-- de rechercher des événements par nom,
-- de filtrer et trier les résultats,
-- et de gérer un système de favoris
+- de filtrer des événements par mots clé, localisation et tag
+- de gérer la pagination
+- et de gérer les favoris : ajout, suppression, affichage
 
-## projet en duo développé en 9 jours 
-
-## Journal
-
-### 27/10/2025
-Initiation du projet\
-Téléchargement des packages React, Tailwind\
-Division du projet en tickets\
-Création de la fonction fetch API\
-Création des branches Cards et SeeMore\
-Mise en place du bouton See More
-
-### 28/10/2025
-Mise en page des cartes\
-Création de la fonctionnalité "voir plus"\
-Création de la barre de recherche\
-Création du bouton "page suivante"
-
-### 29/10/2025
-Merge branch card, boutonNext et boutonVoirPlus avec main\
-WIP: amélioration affichage cards\
-WIP: buttonLoadMore offset\
-
-### 31/10/2025
-Ajouter les tags comme éléments de recherche possible\
-Exploration du Tailwind en braches\
-
-### 01/11/2025
-Debug: ajout des images et textes par défaut pour l'affichage des events\
-Debug: Button Voir Plus\
-Debug: cleanText appliqué aux titres\
-WIP: favoris et menu déroulant des localisations\
-Nom de l'appli: Paname Events\
-
-### 02/11/2025
-Fonctionnalité Voir mes favoris\
-Sidebar avec les options localisations et tag\
-Amélioration UI
-
-
-
+## projet en duo développé en 8 jours 
 
